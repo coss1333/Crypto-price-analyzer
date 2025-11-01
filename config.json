@@ -1,0 +1,5 @@
+{
+  "coins": "BTC,ETH,BNB,SOL,HYPE,XRP,DOGE,TRX,ADA,LINK",
+  "days": 1000,
+  "out": "output"
+}
